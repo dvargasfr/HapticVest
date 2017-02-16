@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DEBFA0C2-E22D-0277-F5CE-523009D90C43}") = "HapticVest", "Assembly-CSharp.csproj", "{887E0B01-3EEE-F8C2-883C-ADF1C83C5E5F}"
+EndProject
+Project("{DEBFA0C2-E22D-0277-F5CE-523009D90C43}") = "HapticVest", "Assembly-CSharp-Editor.csproj", "{F68E3A55-5992-8338-97A7-4B058D9DA71F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{887E0B01-3EEE-F8C2-883C-ADF1C83C5E5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{887E0B01-3EEE-F8C2-883C-ADF1C83C5E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{887E0B01-3EEE-F8C2-883C-ADF1C83C5E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{887E0B01-3EEE-F8C2-883C-ADF1C83C5E5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F68E3A55-5992-8338-97A7-4B058D9DA71F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68E3A55-5992-8338-97A7-4B058D9DA71F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F68E3A55-5992-8338-97A7-4B058D9DA71F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F68E3A55-5992-8338-97A7-4B058D9DA71F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
